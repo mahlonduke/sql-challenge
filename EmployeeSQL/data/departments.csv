@@ -1,0 +1,10 @@
+departments_id,dept_no,dept_name
+1,d001,Marketing
+2,d002,Finance
+3,d003,Human Resources
+4,d004,Production
+5,d005,Development
+6,d006,Quality Management
+7,d007,Sales
+8,d008,Research
+9,d009,Customer Service
